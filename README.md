@@ -11,3 +11,5 @@
  ![](https://img.shields.io/badge/-express-000000?style=for-the-badge&logo=EXPRESS)
  ![](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MONGODB)
  ![](https://img.shields.io/badge/-VSCODE-000000?style=for-the-badge&logo=VisualStudioCODE)
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xloppi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
