@@ -15,8 +15,7 @@
  ![](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MONGODB)
  ![](https://img.shields.io/badge/-VSCODE-000000?style=for-the-badge&logo=VisualStudioCODE)
 
- [![Xloppi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xloppi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Xloppi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xloppi&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xloppi&theme=tokyonight)
-)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xloppi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
