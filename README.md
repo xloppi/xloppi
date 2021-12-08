@@ -1,21 +1,31 @@
 # Всем привет, меня зовут Алексей!
 
-- Учусь в Яндекс.Практикуме на Web-разработчика
-- Планирую освоить и другие фреймворки, помимо React
 - Инженер однажды - инженер навсегда!
- 
- Стек:
- 
- ![](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5)
- ![](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3)
- ![](https://img.shields.io/badge/-JS-000000?style=for-the-badge&logo=JavaScript)
- ![](https://img.shields.io/badge/-NODE.js-000000?style=for-the-badge&logo=Node.js)
- ![](https://img.shields.io/badge/-REACT-000000?style=for-the-badge&logo=REACT)
- ![](https://img.shields.io/badge/-express-000000?style=for-the-badge&logo=EXPRESS)
- ![](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MONGODB)
- ![](https://img.shields.io/badge/-VSCODE-000000?style=for-the-badge&logo=VisualStudioCODE)
+- Планирую освоить и другие фреймворки, помимо React
+- Прошел обучение в Яндекс.Практикуме на Web-разработчика
 
- [![Xloppi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xloppi&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xloppi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Контакты:
+[<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
+[<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/418499da37ed2d07cff077560db9bfe299c8d7b8/topics/vk/vk.png" />][VK]
 
+
+### Стек:
+
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" />
+
+[![Xloppi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xloppi&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xloppi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[telegram]: https://t.me/xloppi
+[VK]: https://vk.com/id2531855
