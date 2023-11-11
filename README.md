@@ -29,5 +29,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xloppi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[telegram]: https://t.me/xloppi
-[VK]: https://vk.com/id2531855
+//[telegram]: https://t.me/xloppi
+//[VK]: https://vk.com/id2531855
