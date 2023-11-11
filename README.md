@@ -1,4 +1,4 @@
-# Всем привет, меня зовут Алексей!
+<!---# Всем привет, меня зовут Алексей!
 
 - Инженер однажды - инженер навсегда!
 - Планирую освоить и другие фреймворки, помимо React
@@ -29,5 +29,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xloppi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-//[telegram]: https://t.me/xloppi
+[//]: <> [telegram]: https://t.me/xloppi
 //[VK]: https://vk.com/id2531855
+-->
